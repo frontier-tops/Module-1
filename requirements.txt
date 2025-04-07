@@ -2,7 +2,7 @@ langchain
 langchain-ollama
 langchain-core
 langchain-community
-torch
-transformers
+torch==2.6.0
+transformers==4.50.3
 diffusers
 google-generativeai
