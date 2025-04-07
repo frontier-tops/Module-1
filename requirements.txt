@@ -22,4 +22,3 @@ faiss-gpu-cu12==1.10.0
 bitsandbytes==0.45.4
 ag2[ollama]
 pyautogen==0.8.0
-
